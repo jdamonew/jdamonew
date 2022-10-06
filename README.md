@@ -4,7 +4,7 @@
 - 🌱 Atualmente estou estudando ReactJS
 - 😄 Pronomes: ela/dela (she/her)
 
-<div align="center">
+<div style="display:flex; gap:10px">
   <a href="https://github.com/jdamonew">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jdamonew&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jdamonew&layout=compact&langs_count=7&theme=dracula"/>
