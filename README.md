@@ -19,13 +19,13 @@
   <img align="center" alt="Jobia-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Jobia-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Jobia-xd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" />
-  <img align="right" alt="Jobia-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/41210780?v=4">
+  <img align="right" alt="Jobia-pic" height="150" style="border-radius:10px;" src="https://avatars.githubusercontent.com/u/41210780?v=4">
 </div>
   
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/jóbia-damone" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="border-radius:4px"></a> 
+  <a href="https://www.linkedin.com/in/jóbia-damone" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/jdamonew/jdamonew/blob/output/github-contribution-grid-snake.svg)
 </div>
