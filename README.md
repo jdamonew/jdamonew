@@ -1,7 +1,7 @@
 ### Olá! Me chamo Jóbia ...
 
 - 🔭 Estou trabalhando como Front End
-- 🌱 Atualmente estou estudando ReactJS
+- 🌱 Atualmente estou estudando NextJS e AngularJS
 - 😄 Pronomes: ela/dela (she/her)
 
 <div style="display:flex; gap:10px">
